@@ -7,7 +7,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 import java.util.Date;
 
-
+//Entity
 @Entity
 @Table(name = "student")
 public class Student {
